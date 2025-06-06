@@ -6,6 +6,21 @@ This is a simple .NET Core Web API project that allows basic **CRUD operations**
 
 ---
 
+## Database Setup in SSMS
+
+```
+CREATE DATABASE EMS_DB;
+
+USE EMS_DB;
+
+CREATE TABLE Employees (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(100) NOT NULL,
+    Department NVARCHAR(100),
+    Salary DECIMAL(18,2)
+);
+```
+
 ## Required NuGet Packages
 
 Run these commands in **NuGet Package Manager Console** or install via NuGet GUI:
