@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\migrations\\20250606152039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:migrations\\20250606152039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\data\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:data\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|c:\\users\\rahul 9422253987\\downloads\\abc\\emis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFC565A-ADE7-4C4C-A3F9-82A3FDA15C7A}|EMS-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T19:01:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:01:29.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:01:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250606152039_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Migrations\\20250606152039_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250606152039_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Migrations\\20250606152039_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250606152039_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:01:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Data\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:01:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:00:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:00:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:00:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\Downloads\\ABC\\EMIS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:20:39.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
